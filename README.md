@@ -1,7 +1,5 @@
-[![Braydon's GitHub Banner](./assets/GithubHeader.png)]([https://agustinfruni.wordpress.com/])
+[![Agustin's GitHub Banner](./assets/GithubHeader.png)]([https://agustinfruni.wordpress.com/])
 
-
-Hey there 👋
 
 I’m Agustin, a mobile developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
